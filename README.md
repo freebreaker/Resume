@@ -15,21 +15,12 @@
  - 工作(前端)经验：2.5年
  - Github：http://github.com/freebreaker
  - 语言能力：CET6
- - [个人博客](https://dadablog.herokuapp.com/signin)
+ - [个人博客](http://www.jianshu.com/u/e5a631722da0)
 
-
-
-## 工作经历？
-
-###  国泰国贸有限公司  2014/09~2016/2 
-
-###  奇葩物投资管理有限公司 2016/03~2017/2 
+ 
 
 ## 项目经历
 
-
-
- 
 ### Vue版知乎日报 2017/07~2017/07
 
 #### 项目介绍
