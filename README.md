@@ -25,8 +25,6 @@
 
 ###  奇葩物投资管理有限公司 2016/03~2017/2 
 
-工作描述： 如果是和前端相关，写出你的工作内容，如果和前端不相关但和开发相关，写上工作内容顺便带一点前端的东西。 如果完全不相关，直接写公司名表示你不是没工作经验的大学生即可
-
 ## 项目经历
 
 
@@ -100,7 +98,7 @@ Nodejs/Mongodb
 
 #### 项目介绍
 
-[预览地址](https://freebreaker.github.io/FM-Radio/music.html)/[GitHub源码](https://github.com/freebreaker/FM-Radio)
+FM音乐电台[预览地址](https://freebreaker.github.io/FM-Radio/music.html)/[GitHub源码](https://github.com/freebreaker/FM-Radio)
 
 #### 实现方式
 
