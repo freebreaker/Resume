@@ -10,9 +10,8 @@
 
  - 学历:本科 
  - 期望职位：前端工程师
- - 期望薪资：8k~12k
+ - 期望薪资：8k~10k
  - 期望城市：上海/杭州
- - 工作(前端)经验：2.5年
  - Github：http://github.com/freebreaker
  - 语言能力：CET6
  - [个人博客](http://www.jianshu.com/u/e5a631722da0)
