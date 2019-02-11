@@ -1,8 +1,7 @@
 # 个人简历
 
 - 卜成健/男/1994 
-- 手机：13160300173
-- Email：freebreaker@aliyun.com
+- Email：591278845@qq.com
 - QQ：592378845
 - 微信： bcj15251769638.
 
@@ -10,39 +9,36 @@
 
  - 学历:本科 
  - 期望职位：前端工程师
- - 期望薪资：8k~10k
+ - 期望薪资：10k~15k
  - 期望城市：上海/杭州
  - Github：http://github.com/freebreaker
  - 语言能力：CET6
- - [个人博客](http://www.jianshu.com/u/e5a631722da0)
 
  
 
 ## 项目经历
 
-### Vue版知乎日报 2017/07~2017/07
+### 润阳贷金融PC平台 2017/10~2019/01
 
 #### 项目介绍
 
-Vue知乎日报，具有主题日期功能，暂支持手机端。[预览地址](http://dadaluobo.site:8228/) / [GitHub源码](https://github.com/freebreaker/vue-dailyPaper) 
+P2P的金融投资平台，子项目包括车贷、供应链贷款、房贷等。[预览地址](https://www.runyangdai.com/)
 
 #### 实现方式
 
-利用vue-cli生成项目，通过vue-router实现单页路由跳转，通过ajax来获取接口数据，并渲染到页面；通过Vuex状态管理，将日期，文章id等复用数据共享，遵循共享组件的思路；通过Webpack打包，线上部署到阿里云服务器。CSS设计上采用Mint UI; 后端用Nodejs,对跨域的数据接口进行了转发。
+基于.net MVC，结合jQuery的传统网站。
 
 #### 项目收获?
 
-复用组件时，解决界面刷新的问题。
-遇到跨域问题，在开发环境下的跨域可以在config里设置，但部署到线上的时候出错，多番查询后先是设置了nginx代理，然后又尝试着Node转发接口，在此过程中文件位置屡屡出错，改变默认build文件位置即可。
+熟悉了部分后端知识
 
 #### 技术栈
 
-Vue/Node
+.net jQuery
 
 
 
-
-### React Todo应用 2017/06~2017/07
+### React Todo应用 2018/06~2018/09
 
 #### 项目介绍
 
